@@ -1,4 +1,4 @@
-# Front-end Technologies `Mera The Full Stack Course`
+# Front-end Technologies `Meta The Full Stack Course`
 
 Learn about the front-end technologies HTML, CSS and JavaScript.
 
